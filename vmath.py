@@ -1,4 +1,4 @@
-# vector math module
+# Vector math module
 
 from vectors import vector
 import vectors
